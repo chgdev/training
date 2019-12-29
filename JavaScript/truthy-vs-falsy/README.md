@@ -9,7 +9,7 @@
 ## What values return false when put in a condition?
 
 ## How would you get a variable to return its boolean value?
-I.e. what syntax could you use have falsy value, that don't directly equal false, to return the false false?
+I.e. what syntax could you use have falsy value, that doesn't directly equal false, to return the false value?
 
 ``` javascript
 getBooleanValue(value) {

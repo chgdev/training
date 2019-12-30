@@ -10,7 +10,7 @@
 
 ### How do you make jest track code coverage? (Hint there are at least two ways.)
 ### How do you force jest to fail if a certain code coverage percentage is not met? (e.g. 80%)
-### How do you configure what files should included when tracking code coverage? What about what files to exclude?
+### How do you configure what files should be included when tracking code coverage? What about what files to exclude?
 ### What is a test reporter? What are some reporters that you can use with jest?
 ### How do run setup code before each test is run without using a `beforeEach` or `beforeAll`?
 ### How do you jest the timeout for a single jest test? How do you change it globally?
@@ -26,13 +26,13 @@
 ### How do make assertions in jest? Give examples.
 ### What are matchers? Be detailed and give examples.
 ### How do you assert that an error will be thrown when calling a function?
-### How do you assert that a promise will be rejected in jest?
-### How do you assert what a promise resolves with in jest?
+### How do you assert that a promise will be rejected with?
+### How do you assert what a promise resolves with?
 
 ## Mocking
 
 ### What is a mock function? Why would you use one?
-### What properties does a mock function contain? Be detailed about it's properties, and what those properties might contain?
+### What properties does a mock function contain? Be detailed about its properties, and what those properties might contain?
 ### Give examples of how to mock the following things: the implementation of a function, resolving a promise, returning a value, throwing an error, rejecting a promise.
 ### How do you mock a module in jest? (e.g. axios)
 ### How do you mock a class in jest?
@@ -41,8 +41,8 @@
 
 ## Beyond the basics
 
-### How do you create your own matchers?
-### What does the `jest-extended` library do? Are other libraries that do similiar things?
+### How do you create custom matchers?
+### What does the `jest-extended` library do? Are other libraries that do similar things?
 
 ## Resources
 

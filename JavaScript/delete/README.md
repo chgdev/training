@@ -24,14 +24,12 @@ console.log(dog.age) // what will this print out?
 
 ## Can you delete properties on default JavaScript objects? 
 
-### Example:
 ```javascript
 console.log(delete Math.PI) // What happens?
 ```
 
 ## What happens if you try to delete a property that is non-configurable in strict mode?
 
-### Example:
 ```javascript
 "use strict"
 
@@ -81,7 +79,6 @@ console.log(bunny.weight); // what is logged here now? why?
 
 ## What happens when you remove an item from an array using the delete operator? Is the length of the array affected?
 
-### Example:
 ```javascript
 var array = ['a', 'b', 'c', 'd'];
 

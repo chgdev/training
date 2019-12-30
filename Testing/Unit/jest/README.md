@@ -5,6 +5,7 @@
 ### How do you install jest into a project?
 ### How do you run jest as your default `test` script? (e.g. when you run `npm test`, it should run your jest tests)
 ### What file patterns will jest search for by default when running your tests?
+### How do you run jest in `watch mode`? (When there is a change to any file the tests run again.)
 
 ## Configuring Jest
 
@@ -20,6 +21,9 @@
 ### How can you use async/await in your jest tests?
 ### Why would you use async/await in your jest tests rather than the done callback function?
 ### What are snapshots? Why would you use them?
+### Describe the following global functions and why you would use them: `describe, beforeEach, beforeAll, afterEach, afterAll, it, test`
+### Describe what describe.each and it.each are used for.
+### Describe what describe.only and it.only are used for.
 
 ## Expectations
 

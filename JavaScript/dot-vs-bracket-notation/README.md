@@ -39,6 +39,8 @@ var obj3 = {
 console.log(obj3['b' + 'a' + 'r']) // what would this return?
 console.log(obj3.b + obj3.a + obj3.r) // what would this return?
 
+obj3[obj.prop + obj2.a + obj3.r] = "a final value"
+console.log(obj3.??) // what property should we log to print 'a final value'
 ```
 
 ### When would you want to use dot vs bracket notation?

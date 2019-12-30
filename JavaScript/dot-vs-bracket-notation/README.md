@@ -28,6 +28,17 @@ console.log(obj2.a) // what would this return?
 console.log(obj2['foo']) // what would this return?
 console.log(obj2['b']) // what would this return?
 console.log(obj2['bar']) // what would this return?
+
+var obj3 = {
+  b: 1,
+  a: 2,
+  r: 3,
+  bar: 'foo'
+}
+
+console.log(obj3['b' + 'a' + 'r']) // what would this return?
+console.log(obj3.b + obj3.a + obj3.r) // what would this return?
+
 ```
 
 ### When would you want to use dot vs bracket notation?

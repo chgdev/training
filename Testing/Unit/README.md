@@ -14,5 +14,5 @@
 ### What is a mock? Why would you use it?
 ### What is a spy? Why would you use it?
 ### What is the difference between a mock and a spy? Be specific, why would you use one over the other?
-### What is the difference between Setup and Teardown in testing? Why whould you use these concepts?
+### What is the difference between Setup and Teardown in testing? Why should you use these concepts?
 

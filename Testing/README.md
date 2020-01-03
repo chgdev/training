@@ -8,7 +8,9 @@
 ### What are different types of software testing? (Name at least 5, with a brief description.)
 ### Describe in detail black box testing and white box testing. What is the difference between the two?
 ### Why should you prefer automated testing to manual? When is manual testing necessary?
-
+### What is the difference between Setup and Teardown in testing? Why should you use these concepts?
+### Why is it important to create new test data instead of sharing data before running tests?
+### Why is it important to clean up created test data after running tests?
 
 ## Resources
 

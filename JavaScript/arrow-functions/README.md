@@ -68,5 +68,19 @@ const getIdsArrowFn = // ??
 
 ```
 
+## How can you use an arrow function to return an object without using a return statement? Convert the following to an arrow function that returns an object without using the return key word?
+
+```javascript
+var add = function(a, b) {
+  return {
+    sum: a + b,
+    a: a,
+    b: b
+  }
+}
+
+const addArrowFn = // ???
+```
+
 ## Resources
 https://tylermcginnis.com/arrow-functions/

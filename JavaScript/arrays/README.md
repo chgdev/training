@@ -90,3 +90,22 @@ For each of the following functions below, provide an explanation of the functio
 ### What is its return value?
 
 ### Provide an example.
+
+## Array.from
+### What does the function do?
+
+### What are its parameters?
+
+### What is its return value?
+
+### Provide an example.
+
+## What is an iterable
+
+## What is the difference between an Array, a Set, and a Map?
+
+## What is the difference between a Map/Set and a WeakMap/WeakSet?
+
+## Why would you use a Map over an Object?
+
+## In JavaScript you are allowed to initialize an array like so `new Array(100)`, where you pass in what the starting size of the array should be. Why is the ability to do this useful?

@@ -22,6 +22,14 @@
 
 ## How do you add css classes to a selected element in the DOM? Given an example below.
 
+## How do you create an html element and insert it into the DOM?
+
+## What is the difference between using the innerHTML property to add elements, insertAdjacentHTML, and appendChild with document.createElement?
+
+## What is the difference between append and prepend on HTMLElements?
+
+## How do you remove an html element from the DOM?
+
 ## How do you log to the console of the browser?
 
 ## How do you send an alert to the user in the browser?
@@ -33,6 +41,7 @@
 ## alert is a function on the window object, but you call call it as if it were a global function, why does this work?
 
 ## What are Element Nodes and Text Nodes, and what are the differences?
+
 
 ## Intermediate
 

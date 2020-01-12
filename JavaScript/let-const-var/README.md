@@ -51,8 +51,4 @@ void function() {
 
 ## Why should you use const over let when possible?
 
-## What are the rules around naming variables in JavaScript? Give what is allowed vs not allowed. In addition specify what is recommended vs not recommended?
 
-## What is hosting in JavaScript?
-
-## What are shadowed variables?

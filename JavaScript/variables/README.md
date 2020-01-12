@@ -18,4 +18,7 @@
 
 ## What is the difference between reference values and primitive values?
 
+## What is hosting in JavaScript?
+
+## What are shadowed variables?
 

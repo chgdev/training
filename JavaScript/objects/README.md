@@ -14,6 +14,8 @@
 
 ## How do you make an object immutable in JavaScript?
 
-## What is the `this` keyword used for?
+## What is the `this` keyword used for? What does it refer to? 
 
 ## How do you create a copy of an object without referencing the original object? i.e. `const copy = oldObject;`
+
+## How can you ensure that a property of an object cannot be deleted?

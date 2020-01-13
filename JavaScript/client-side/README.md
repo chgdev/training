@@ -42,6 +42,19 @@
 
 ## What are Element Nodes and Text Nodes, and what are the differences?
 
+## How do you access `data-*` attributes from HTMLElements? Give an example of how to read/write them to the DOM elements.
+
+## What is the template tag in HTML used for?
+
+## What is the window.location property used for? List information that this property gives you.
+
+## How do you navigate to another website using the location property?
+
+## What information does the window.history give you? How can you use the property to control navigation?
+
+## What information does the window.navigator property give you?
+
+## How can you tell what browser the user is currently using?
 
 ## Intermediate
 
@@ -50,6 +63,8 @@
 ### Why do we ensure that our JavaScript code has been bundled when adding it to the index.html?
 
 ### How can you use ES6 across browsers? Take into consideration that IE does not support it fully.
+
+### How do you add a script to the DOM dynamically? When would this be useful?
 
 
 

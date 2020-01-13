@@ -32,6 +32,8 @@
 
 ### How do you allow import/exports with script tags in the browser.
 
+### What is the `data-*` attribute used for?
+
 ## Exercises
 
 ### How do you include Scripts in HTML? Give an example.

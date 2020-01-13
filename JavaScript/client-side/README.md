@@ -66,5 +66,19 @@
 
 ### How do you add a script to the DOM dynamically? When would this be useful?
 
+## Events
+
+### What types of events can you listen to for an HTMLElement? List as many as you can find.
+
+### With the MouseEvent class, for example, what properties does it expose to you?
+
+### How do you listen to an event on a selected HTMLElement?
+
+### What is the difference between `element.onclick(<function>)` and `element.addEventListener('click', <function>)`? Why would you use one over the other?
+
+### How do you remove an event listener from a selected element? Give a code example below.
+
+### What does calling preventDefault on an event do?
+
 
 

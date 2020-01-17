@@ -7,7 +7,6 @@
 
 
 ## References 
+- More on JavaScript Memory Management (Garbage Collection): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
 
-More on JavaScript Memory Management (Garbage Collection): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
-
-V8's Garbage Collection Logic: https://v8.dev/blog/free-garbage-collection
+- V8's Garbage Collection Logic: https://v8.dev/blog/free-garbage-collection

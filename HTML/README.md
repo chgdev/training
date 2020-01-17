@@ -1,14 +1,14 @@
 ## Basics
 
-### How does the browser render html? Give at least high level description?
+### What is the purpose of HTML?
+
+### Why do we use JavaScript and CSS with HTML?
 
 ### What is the DOM?
 
-### List some of the new features that the HTML5 update brought?
+### What is the top most node (root element) of the DOM?
 
-### Why do we use JavaScript with HTML?
-
-### Why do we use CSS with HTML?
+### How does the browser render html? Give at least high level description?
 
 ### What do the following terms mean in HTML:
     - Child
@@ -16,7 +16,11 @@
     - Parent
     - Ancestor
 
-### What is the async attribute? Why would you use it?
+### List some of the new features that the HTML5 update brought?
+
+## Scripts
+
+### What is the async attribute on scripts used for?
 
 ### What is the defer attribute? Why would you use it vs adding the scripts at the bottom of the html body?
 
@@ -28,16 +32,21 @@
 
 ### What happens when you try to combine an inline script with one that has the src attribute?
 
-### What is the top most node of the DOM?
 
 ### How do you allow import/exports with script tags in the browser.
 
 ### What is the `data-*` attribute used for?
 
+### What is the template tag in HTML used for?
+
+
 ## Exercises
 
 ### How do you include Scripts in HTML? Give an example.
-### How do you include CSS in HTML? Give an example.
-### How do you add inline styles to an element? Give an example.
+### How do you include a CSS file in HTML? Give an example.
+### How do you add inline styles to your html page? Give an example.
 
 
+## Resources
+
+- https://www.w3schools.com/

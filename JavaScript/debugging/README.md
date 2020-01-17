@@ -26,5 +26,13 @@
 
 ### What does the `$0` use for in the Chrome Developer Tools?
 
-### What is the difference between `console.log` and `console.dir`?
+### How can you simulate a slower connection speeds in the browser?
+
+### How can you simulate slower CPU speeds in the browser?
+
+### How can you see the performance of your JavaScript code in the browser?
+
+### How can you see what code is not being used from the Network tab? How can you improve this through lazy loading?
+
+### How can the Memory Tab be used to find memory leaks?
 

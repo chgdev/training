@@ -6,10 +6,6 @@
 
 ## If you do not assign a variable's value what will the value of that variable be by default?
 
-## What is camelCase?
-
-## What are the rules around naming variables in JavaScript? Give what is allowed vs not allowed. In addition specify what is recommended vs not recommended?
-
 ## What is the difference between declaring and defining a variable?
 
 ## What is the difference between undefined and null?
@@ -21,4 +17,8 @@
 ## What is hosting in JavaScript?
 
 ## What are shadowed variables?
+
+## What is camelCase?
+
+## What are the rules around naming variables in JavaScript? Give what is allowed vs not allowed. In addition specify what is recommended vs not recommended?
 

@@ -102,7 +102,7 @@ For each of the following functions below, provide an explanation of the functio
 
 ## What is an iterable
 
-## What is the difference between an Array, a Set, and a Map?
+## What is the difference between Array, Set, and Map?
 
 ## What is the difference between a Map/Set and a WeakMap/WeakSet?
 

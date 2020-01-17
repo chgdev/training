@@ -78,7 +78,57 @@
 
 ### How do you remove an event listener from a selected element? Give a code example below.
 
-### What does calling preventDefault on an event do?
+### What does calling preventDefault on an event do? Give a use case for this function.
+
+### What does calling stopPropagation on an event do? Give a use case for this function.
+
+### What is the difference between stopImmediatePropagation and stopPropagation?
+
+### What are polyfills? How do they allow you to use cutting edge features that are not supported across multiple browsers?
+
+### Why should you never put database connection strings or secrets in your frontend code?
+
+### What are Cross-Site Scripting Attacks (XSS)? Are there any libraries that can help mitigate this issue?
+
+### What are Cross-Site Request Forgery (CSRF)?
+
+### What are different things that affect the start up time of your website? Meaning what can slow down the time that it takes for your website to load?
+
+### Why can DOM operations be expensive?
+
+### Why is it important to measure and audit the performance of your website before making optimizations?
+
+### What are ways to measure the performance of your website?
+
+### Why should you measure the performance of your production ready build of your websites vs the dev version?
+
+### How can you simulate a slower connection speeds in the browser?
+
+### How can you simulate slower CPU speeds in the browser?
+
+### How can you see the performance of your JavaScript code in the browser?
+
+### How can you run the production version of your website while also loading the source maps of your application?
+
+### Why would you create multiple webpack config files?
 
 
+### How can you see what code is not being used from the Network tab? How can you improve this through lazy loading?
 
+### How can you use jsperf to test the performance of your JavaScript code? 
+
+### How can the Memory Tab be used to find memory leaks?
+
+### Why should you add third party libraries to the bundle instead of using a CDN?3
+
+
+## Resources
+
+- https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution
+- https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference
+- https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency
+- https://github.com/expressjs/compression
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control
+- https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching
+- https://wp-rocket.me/blog/different-types-of-caching/
+- https://developers.google.com/web/fundamentals/performance/http2
